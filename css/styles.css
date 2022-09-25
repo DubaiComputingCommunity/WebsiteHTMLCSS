@@ -23,7 +23,7 @@ Table Of Contents:
 /*****************************************
 Colors:
 - Backgrounds - light gray #f6f6f7
-- Buttons, icons - yellow #ffd103
+- Buttons, icons - yellow #25E4A6
 - Buttons - blue #0099ff
 - Headings text - navy blue #2b2b4f
 - Body text - dark gray #53575a
@@ -170,9 +170,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #FFD600;
+	border: 1px solid #25E4A6;
 	border-radius: 4px;
-	background-color: #FFD600;
+	background-color: #25E4A6;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -182,18 +182,18 @@ a:hover {
 }
 
 .btn-solid-reg:hover {
-	border: 1px solid #FFD600;
+	border: 1px solid #25E4A6;
 	background-color: transparent;
-	color: #FFD600; /* needs to stay here because of the color property of a tag */
+	color: #25E4A6; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #FFD600;
+	border: 1px solid #25E4A6;
 	border-radius: 4px;
-	background-color: #FFD600;
+	background-color: #25E4A6;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -203,7 +203,7 @@ a:hover {
 }
 
 .btn-solid-lg:hover {
-	border: 1px solid #FFD600;
+	border: 1px solid #25E4A6;
 	background-color: transparent;
 	color: #0099ff; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
@@ -212,9 +212,9 @@ a:hover {
 .btn-solid-sm {
 	display: inline-block;
 	padding: 1rem 1.5rem 1rem 1.5rem;
-	border: 1px solid #FFD600;
+	border: 1px solid #25E4A6;
 	border-radius: 4px;
-	background-color: #FFD600;
+	background-color: #25E4A6;
 	color: black;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -224,7 +224,7 @@ a:hover {
 }
 
 .btn-solid-sm:hover {
-	border: 1px solid #FFD600;
+	border: 1px solid #25E4A6;
 	background-color: transparent;
 	color: black;
 	text-decoration: none;
@@ -397,9 +397,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.25rem;
-	border: 1px solid #ffd103;
+	border: 1px solid #25E4A6;
 	border-radius: 4px;
-	background-color: #ffd103;
+	background-color: #25E4A6;
 	color: #2b2b4f;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -518,7 +518,7 @@ input[type='checkbox'] {
 
 .navbar .dropdown-item:hover {
 	background-color: #ffffff;
-	color: #ffd103;
+	color: #25E4A6;
 }
 
 .navbar .dropdown-divider {
@@ -687,7 +687,7 @@ input[type='checkbox'] {
 }
 
 .basic-1 .feature-icon.third {
-	background-color: #ffd103;
+	background-color: #25E4A6;
 }
 
 .basic-1 .feature-icon.fourth {
@@ -1083,7 +1083,7 @@ a.back-to-top {
 }
 
 a:hover.back-to-top {
-	background-color: #ffd103;
+	background-color: #25E4A6;
 }
 
 
@@ -1647,7 +1647,7 @@ margin-bottom: 60px;
 .section-head h4 {
 position: relative;
 padding:0;
-color:#FFD600;
+color:#25E4A6;
 line-height: 1;
 letter-spacing:0.3px;
 font-size: 34px;
@@ -1660,7 +1660,7 @@ margin-bottom:30px;
 content: '';
 width: 60px;
 height: 3px;
-background: #FFD600;
+background: #25E4A6;
 position: absolute;
 left: 0px;
 bottom: -10px;
@@ -1697,7 +1697,7 @@ text-transform: none;
 content: '';
 width: 60px;
 height: 3px;
-background: #FFD600;
+background: #25E4A6;
 position: absolute;
 left: 0px;
 bottom: -10px;
@@ -1706,7 +1706,7 @@ margin: 0 auto;
 }
 .extra-text span {
 font-weight: 700;
-color:#FFD600;
+color:#490AA7;
 }
 .item {
 background: #fff;
@@ -1722,7 +1722,7 @@ transition: all .5s ease 0;
 transition: all 0.5s ease 0s;
 }
 .item:hover{
-background:#FFD600;
+background:#490aa7ae;
 box-shadow:0 8px 20px 0px rgba(0, 0, 0, 0.2);
 -webkit-transition: all .5s ease 0;
 transition: all .5s ease 0;
@@ -1744,7 +1744,7 @@ transition: all 0.5s ease 0s;
 .item .icon {
 font-size: 40px;
 margin-bottom:25px;
-color: #FFD600;   
+color: #25E4A6;   
 width: 90px;
 height: 90px;
 line-height: 96px;
@@ -1752,27 +1752,27 @@ border-radius: 50px;
 }
 .item .feature_box_col_one{
 background:rgba(247, 198, 5, 0.20);
-color:#FFD600
+color:#25E4A6
 }
 .item .feature_box_col_two{
 background:rgba(255, 77, 28, 0.15);
-color:#FFD600
+color:#25E4A6
 }
 .item .feature_box_col_three{
 background:rgba(0, 147, 38, 0.15);
-color:#FFD600
+color:#25E4A6
 }
 .item .feature_box_col_four{
 background:rgba(0, 108, 255, 0.15);
-color:#FFD600
+color:#25E4A6
 }
 .item .feature_box_col_five{
 background:rgba(146, 39, 255, 0.15);
-color:#FFD600
+color:#25E4A6
 }
 .item .feature_box_col_six{
 background:rgba(23, 39, 246, 0.15);
-color:#FFD600
+color:#25E4A6
 }
 .item p{
 font-size:15px;
@@ -1794,7 +1794,7 @@ width: 50px;
 height: 50px;
 line-height: 50px;
 text-align: center;
-background: #FFD600;
+background: #25E4A6;
 border-radius: 50%;
 color: #fff;
 font-size: 25px;
@@ -1830,7 +1830,7 @@ position: absolute;
 left: 0;
 top: 0;
 height: 100%;
-background: #FFD600;
+background: #25E4A6;
 width: 10%;
 border-radius: 10px;
 -webkit-transition: all 1s;
@@ -1932,7 +1932,7 @@ border-radius: 30px;
   }
   /* Timeline */
   .timeline {
-	border-left: 4px solid #FFD600;
+	border-left: 4px solid #490AA7;
 	border-bottom-right-radius: 4px;
 	border-top-right-radius: 4px;
 	background: rgba(255, 255, 255, 0.03);
@@ -1987,7 +1987,7 @@ border-radius: 30px;
 	min-width: 120px;
   }
   .timeline .event:after {
-	box-shadow: 0 0 0 4px #FFD600;
+	box-shadow: 0 0 0 4px #25E4A6;
 	left: -57.85px;
 	background: #313534;
 	border-radius: 50%;
